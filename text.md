@@ -11,4 +11,4 @@ curl -LO https://raw.githubusercontent.com/Cloud-hustlers-official/lab-solutions
 sudo chmod +x ARC104.sh
 ./ARC104.sh
 ```
-### Congratulations !!!!
+### Congratulations !!
