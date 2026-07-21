@@ -212,8 +212,3 @@ echo "${GREEN}${BOLD}===========================================================
 echo "${GREEN}${BOLD}             LAB COMPLETED!                  ${RESET}"
 echo "${GREEN}${BOLD}====================================================================${RESET}"
 echo
-echo "${BLUE}${BOLD}Thank you for using Cloud Hustlers Tutorials!${RESET}"
-echo
-echo "${YELLOW}${BOLD}For more cloud tutorials and labs, visit:${RESET}"
-echo "${CYAN}https://www.youtube.com/@CloudHustlers/videos${RESET}"
-echo

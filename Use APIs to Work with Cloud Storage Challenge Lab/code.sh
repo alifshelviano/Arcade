@@ -125,5 +125,3 @@ echo "${SUCCESS_COLOR}${BOLD}╔════════════════
 echo "${SUCCESS_COLOR}${BOLD}║       OPERATIONS COMPLETED SUCCESSFULLY  ║${RESET}"
 echo "${SUCCESS_COLOR}${BOLD}╚════════════════════════════════════════╝${RESET}"
 echo
-echo "${INFO_COLOR}For more tutorials, visit: ${ACTION_COLOR}https://www.youtube.com/@CloudHustlers${RESET}"
-echoFcloudhustlers

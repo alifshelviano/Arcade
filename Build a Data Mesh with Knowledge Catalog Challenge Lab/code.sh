@@ -143,7 +143,3 @@ echo "${ORANGE_TEXT}${BOLD_TEXT}================================================
 echo "${ORANGE_TEXT}${BOLD_TEXT}        ALL TASKS COMPLETED       ${RESET_FORMAT}"
 echo "${ORANGE_TEXT}${BOLD_TEXT}=======================================================${RESET_FORMAT}"
 echo
-
-echo "${ORANGE_TEXT}${BOLD_TEXT}Subscribe to Cloud Hustlers${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}${UNDERLINE_TEXT}https://www.youtube.com/@CloudHustlers/videos${RESET_FORMAT}"
-echo "${GREEN_TEXT}${BOLD_TEXT}Don't forget to Like, Share & Subscribe!${RESET_FORMAT}"
