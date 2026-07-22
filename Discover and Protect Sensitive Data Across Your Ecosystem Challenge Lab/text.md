@@ -7,7 +7,7 @@
  ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/Cloud-hustlers-official/lab-solutions/refs/heads/main/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem%20%3A%20Challenge%20Lab/GSP522.sh
+curl -LO https://github.com/alifshelviano/Arcade/raw/refs/heads/main/Discover%20and%20Protect%20Sensitive%20Data%20Across%20Your%20Ecosystem%20Challenge%20Lab/code.sh
 sudo chmod +x code.sh
 ./code.sh
 ```

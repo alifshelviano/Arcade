@@ -25,9 +25,7 @@ RESET=`tput sgr0`
 clear
 
 
-echo "${BLUE}${BOLD}====================================================================${RESET}"
-echo "${BLUE}${BOLD}                 Cloud Hustlers Tutorials                     ${RESET}"
-echo "${BLUE}${BOLD}====================================================================${RESET}"
+
 echo
 echo "${GREEN}${BOLD}Starting BigQuery COVID-19 Data Analysis Lab${RESET}"
 echo

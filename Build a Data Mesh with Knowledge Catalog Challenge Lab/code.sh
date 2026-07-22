@@ -21,9 +21,7 @@ REVERSE_TEXT=$'\033[7m'
 
 clear
 
-echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}        Welcome to Cloud Hustlers Tutorials                    ${RESET_FORMAT}"
-echo "${ORANGE_TEXT}${BOLD_TEXT}==================================================================${RESET_FORMAT}"
+
 echo
 
 echo "${YELLOW_TEXT}${BOLD_TEXT}Enabling Required GCP Services...${RESET_FORMAT}"
