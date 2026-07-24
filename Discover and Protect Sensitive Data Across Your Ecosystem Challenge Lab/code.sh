@@ -43,9 +43,7 @@ cat << "EOF"
 | |___| | (_) | |_| | (_| | | |\  | (_) | |_| |  _| |  __/ (_| |_|
  \____|_|\___/ \__,_|\__,_| |_| \_|\___/ \__|_|_| |_|\___|\__,_(_)
 EOF
-echo "${RESET}"
-echo "${GREEN}${BOLD}Welcome to the Cloud DLP Lab Script!${RESET}"
-echo "${YELLOW}Subscribe to Cloud Hustlers for more cloud tutorials(https://www.youtube.com/@CloudHustlers/videos)!${RESET}"
+
 echo "${BLUE}${BOLD}----------------------------------------------------${RESET}"
 
 echo "${RANDOM_BG_COLOR}${RANDOM_TEXT_COLOR}${BOLD}Starting Execution${RESET}"
